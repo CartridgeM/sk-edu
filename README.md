@@ -1,2 +1,2 @@
 # sk-edu
-git-ㅗub강의
+git-hub강의
